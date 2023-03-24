@@ -41,7 +41,11 @@ const Home = () => {
               }
             }}
           />
-
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur
+          ab placeat, vitae est nesciunt ducimus doloribus cumque quia!
+          Voluptates corrupti maxime fugiat velit quidem amet deleniti
+          dignissimos corporis vero debitis eius, labore doloremque ut odit
+          eligendi exercitationem impedit itaque. Quibusdam, vel?
           <Popularjobs />
           <Nearbyjobs />
         </View>
